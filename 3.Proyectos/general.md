@@ -28,6 +28,8 @@ Futuras actualizaciones mejor organización.
   - [🧱 Cultura y formación social](#-cultura-y-formación-social)
   - [📚 Proyecto: Alejandría moderna en Colombia](#-proyecto-alejandría-moderna-en-colombia)
 
+[Regresar a la nota principal](./../readme.md#proyectos)
+
 ---
 
 ## 👨‍👩‍👧‍👦 Padres y educación
@@ -214,6 +216,6 @@ Un **ecosistema nacional del conocimiento**, inspirado en la Biblioteca de Aleja
 
 > Si se hace bien, Colombia puede elevar su nivel intelectual promedio en menos de 10 años y convertirse en un **referente global del conocimiento.**
 
-[Regresar a la nota principal](./readme.md#temáticas-por-paises)
+[Regresar a la nota principal](./../readme.md#proyectos)
 
 > **Autor:** Fravelz
