@@ -1,14 +1,44 @@
 # Notas
 
+Proyecto, ideas, consejos en el poder, entre otros, manual creado con IA.
+
+Futuras actualizaciones mejor organización.
+
+---
+
+## Temario
+
+- [Notas](#notas)
+  - [Temario](#temario)
+  - [👨‍👩‍👧‍👦 Padres y educación](#-padres-y-educación)
+  - [⚖️ Reglas, poder y ética](#️-reglas-poder-y-ética)
+    - [Regla de oro](#regla-de-oro)
+    - [Filosofía política](#filosofía-política)
+  - [👁️ Seguridad, justicia y orden nacional](#️-seguridad-justicia-y-orden-nacional)
+    - [Sistema de puntos ciudadano](#sistema-de-puntos-ciudadano)
+  - [📊 Economía, desarrollo y datos](#-economía-desarrollo-y-datos)
+  - [💰 Dinero y progreso personal](#-dinero-y-progreso-personal)
+  - [🧠 Aprendizaje acelerado](#-aprendizaje-acelerado)
+  - [🍀 Suerte y destino](#-suerte-y-destino)
+  - [🇨🇳 Cooperación internacional](#-cooperación-internacional)
+  - [🏛️ Filosofía y pensamiento estratégico](#️-filosofía-y-pensamiento-estratégico)
+    - [Temas de estudio fundamentales](#temas-de-estudio-fundamentales)
+  - [🌍 El nuevo orden mundial](#-el-nuevo-orden-mundial)
+    - [Prioridades nacionales](#prioridades-nacionales)
+  - [🧱 Cultura y formación social](#-cultura-y-formación-social)
+  - [📚 Proyecto: Alejandría moderna en Colombia](#-proyecto-alejandría-moderna-en-colombia)
+
 ---
 
 ## 👨‍👩‍👧‍👦 Padres y educación
 
 Crear una **aplicación educativa** enfocada en:
+
 - Enseñar a los padres cómo criar a sus hijos psicológica y físicamente.  
 - Evitar que los niños sean dominados por la **tecnología** y la **dopamina**.  
 
 También buscar:
+
 - Formas de **desarrollo neurológico potencial** en la población.  
 - Un modelo educativo donde **aprender sea un hobby agradable**, no una obligación.  
 
@@ -19,17 +49,23 @@ También buscar:
 ## ⚖️ Reglas, poder y ética
 
 ### Regla de oro
+
 > “Crea límites para el poder, incluso el tuyo.”
 
 - Muchos líderes con buenas intenciones se corrompieron porque el poder absoluto los aisló.  
+
 - Si no estás dispuesto a que alguien cuestione tus decisiones, ya estás cayendo en el error que criticas.  
 
+- Tomar decisiones correctas, sin dejarse guiar por las emociones, a veces en el mundo queremos que la gente mala tenga justicia, pero pensamos en hacer arrepentir a la otra parte, en vez de hacer realmente lo que se llama justicia.
+
 ### Filosofía política
+
 - No caer en el cinismo ni en el fanatismo.  
 - Lo que “funciona” no siempre es lo correcto, y lo que suena “malo” puede tener lógica.  
 - El mundo no es blanco o negro: **es gris**.  
 
 **En resumen**, para crear un sistema justo, firme y ético se necesita:
+
 1. Conocer profundamente la mente y la sociedad.  
 2. Tener un sistema que permita corrección.  
 3. Poner el **bien común por encima del ego**, incluso si cuesta poder.
@@ -45,6 +81,7 @@ También buscar:
 - **4 años de cárcel** para corruptos comprobados.  
 
 ### Sistema de puntos ciudadano
+
 - Cada ciudadano puede **reportar fallas, delitos o corrupción**.  
 - Los reportes generan **puntos cívicos** con recompensas fiscales o sociales.  
 - Así, el **pueblo ayuda a mantener el orden nacional**.  
@@ -66,12 +103,14 @@ También buscar:
 
 ## 💰 Dinero y progreso personal
 
-**Reglas del dinero**
+**Reglas del dinero:**
+
 1. Ganar  
 2. Mantener  
 3. Multiplicar  
 
-**Recomendaciones**
+**Recomendaciones:**
+
 - Trabajar en **proyectos propios**.  
 - Crear **hábitos fuertes y sostenibles**.  
 - No confiar ciegamente en nadie.
@@ -89,26 +128,6 @@ También buscar:
 4. **Memorización avanzada.**  
    - Usa el **Palacio de la memoria** y asociaciones visuales.  
 5. **Usar todos los sentidos** al estudiar.  
-
----
-
-## 💞 Relaciones humanas
-
-### 1. Interés
-- Escuchar más que hablar.  
-- Hacer preguntas abiertas que generen conversación.  
-
-### 2. Atracción
-- Buena higiene, dieta y descanso.  
-- Ejercicio constante.  
-- Arreglar los dientes si es posible.  
-- Tener energía, carisma y buen corte de pelo.  
-
-### 3. Enamoramiento
-- No estar 100 % disponible.  
-- Protegerla física y financieramente.  
-- Ser leal y emocionalmente fuerte.  
-- Mostrar emociones sin dejarse dominar por ellas.  
 
 ---
 
@@ -145,6 +164,7 @@ Por eso hay que construir un mundo donde las personas tengan **más oportunidade
 > “Un momento de dolor y sacrificio vale toda una vida de gloria.”  
 
 ### Temas de estudio fundamentales
+
 - Filosofía  
 - Historia  
 - Geopolítica  
@@ -159,6 +179,7 @@ Por eso hay que construir un mundo donde las personas tengan **más oportunidade
 > “El gran nuevo orden mundial: donde los países cooperan con un líder para establecer un orden político y generar el gran desarrollo de Colombia.”
 
 ### Prioridades nacionales
+
 1. Mejorar la **seguridad**.  
 2. Fortalecer la **economía**.  
 3. Promover la **educación avanzada**.  
@@ -183,6 +204,7 @@ Por eso hay que construir un mundo donde las personas tengan **más oportunidade
 Un **ecosistema nacional del conocimiento**, inspirado en la Biblioteca de Alejandría, para hacer de Colombia un **polo intelectual mundial**.
 
 **Ejes principales:**
+
 1. Lugar estratégico.  
 2. Infraestructura de clase mundial.  
 3. Atracción de intelectuales extranjeros.  
@@ -191,3 +213,7 @@ Un **ecosistema nacional del conocimiento**, inspirado en la Biblioteca de Aleja
 6. Sostenibilidad y expansión digital.
 
 > Si se hace bien, Colombia puede elevar su nivel intelectual promedio en menos de 10 años y convertirse en un **referente global del conocimiento.**
+
+[Regresar a la nota principal](./readme.md#temáticas-por-paises)
+
+> **Autor:** Fravelz

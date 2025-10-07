@@ -80,15 +80,22 @@ Archivo general, compara entre Colombia y los mejores países tops en sus campos
 
 </details>
 
-<!-- ************************************************************* -->
-
 ---
+<!-- ************************************************************* -->
 
 ## Estadísticas
 
 - [Población](./2.Estadistica/poblacion.md)
 
 ---
+<!-- ************************************************************* -->
+
+## Proyectos
+
+- [Población](./2.Estadistica/poblacion.md)
+
+---
+<!-- ************************************************************* -->
 
 **Autor:** Fravelz
 

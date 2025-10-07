@@ -17,7 +17,7 @@ Comparaciones entre Colombia y los países tops en ciertas áreas.
   - [7. **Medio Ambiente y Sostenibilidad**](#7-medio-ambiente-y-sostenibilidad)
   - [8. **Innovación y Futuro**](#8-innovación-y-futuro)
 
-[Regresar a la nota principal](./readme.md#temáticas)
+[Regresar a la nota principal](./readme.md#temáticas-por-paises)
 
 ---
 
@@ -134,6 +134,6 @@ Comparaciones entre Colombia y los países tops en ciertas áreas.
   - Fortalezas: ecosistema emprendedor emergente.
   - Debilidades: poca inversión en ciencia y tecnología.
 
-[Regresar a la nota principal](./readme.md#temáticas)
+[Regresar a la nota principal](./readme.md#temáticas-por-paises)
 
 > **Autor:** Fravelz
