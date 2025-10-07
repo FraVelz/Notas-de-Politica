@@ -2,22 +2,7 @@
 
 ---
 
-## Temario
-
-- [Política](#política)
-  - [Temario](#temario)
-  - [Objetivos](#objetivos)
-  - [📂 Carpeta de Política (Estudio Comparativo de Países)](#-carpeta-de-política-estudio-comparativo-de-países)
-    - [1. **Gobernanza y Estado**](#1-gobernanza-y-estado)
-    - [2. **Economía**](#2-economía)
-    - [3. **Educación y Ciencia**](#3-educación-y-ciencia)
-    - [4. **Salud y Bienestar**](#4-salud-y-bienestar)
-    - [5. **Seguridad y Justicia**](#5-seguridad-y-justicia)
-    - [6. **Infraestructura y Tecnología**](#6-infraestructura-y-tecnología)
-    - [7. **Medio Ambiente y Sostenibilidad**](#7-medio-ambiente-y-sostenibilidad)
-    - [8. **Innovación y Futuro**](#8-innovación-y-futuro)
-
----
+<!-- * Objetivos ************************************************* -->
 
 ## Objetivos
 
@@ -44,112 +29,64 @@ En resumen, quiero **comprender el mundo en el que vivimos y el mundo en el que 
 
 ---
 
-## 📂 Carpeta de Política (Estudio Comparativo de Países)
+<!-- * Temáticas ************************************************* -->
 
-### 1. **Gobernanza y Estado**
+## Temáticas por paises
 
-* **Mejores ejemplos:**
+Archivo general, compara entre Colombia y los mejores países tops en sus campos:
 
-  * **Suiza** → Democracia directa, participación ciudadana.
-  * **Noruega** → Transparencia y baja corrupción.
-* **Colombia:**
+- [Ir al archivo general](./general.md)
 
-  * Fortalezas: instituciones democráticas estables.
-  * Debilidades: corrupción, burocracia pesada.
+<!-- ** Area 1 *************************************************** -->
 
----
+<details>
 
-### 2. **Economía**
+<summary>Suramerica</summary>
 
-* **Mejores ejemplos:**
+- [Colombia](./1.Paises/1.suramerica/Colombia.md)
+- [Ecuador](./1.Paises/1.suramerica/Ecuador.md)
+- [...](./)
 
-  * **EE. UU.** → Innovación y mercado financiero.
-  * **China** → Crecimiento industrial y exportador.
-  * **Alemania** → Industria avanzada y exportaciones.
-* **Colombia:**
+</details>
 
-  * Fortalezas: recursos naturales, economía diversificada.
-  * Debilidades: dependencia de materias primas, baja innovación.
+<!-- ** Area 2 *************************************************** -->
 
----
+<details>
 
-### 3. **Educación y Ciencia**
+<summary>centroamerica</summary>
 
-* **Mejores ejemplos:**
+- [...](./)
 
-  * **Finlandia** → Sistema educativo equitativo.
-  * **Corea del Sur** → Alta disciplina y resultados académicos.
-  * **Estados Unidos** → Universidades de élite, investigación.
-* **Colombia:**
+</details>
 
-  * Fortalezas: acceso a educación básica en aumento.
-  * Debilidades: baja inversión en investigación, calidad desigual.
+<!-- ** Area 3 *************************************************** -->
 
----
+<details>
 
-### 4. **Salud y Bienestar**
+<summary>Norteamerica</summary>
 
-* **Mejores ejemplos:**
+- [...](./)
 
-  * **Japón** → Longevidad, prevención en salud.
-  * **Suecia** → Sistema universal eficiente.
-* **Colombia:**
+</details>
 
-  * Fortalezas: cobertura amplia en salud.
-  * Debilidades: problemas en atención y desigualdad regional.
+<!-- ** Area 3 *************************************************** -->
 
----
+<details>
 
-### 5. **Seguridad y Justicia**
+<summary>Asia</summary>
 
-* **Mejores ejemplos:**
+- [China](./1.Paises/2.asiaticos/China.md)
+- [Corea del Sur](./1.Paises/2.asiaticos/Corea-del-Sur.md)
 
-  * **Singapur** → Bajísima criminalidad.
-  * **Noruega** → Justicia restaurativa y bajos niveles de reincidencia.
-* **Colombia:**
+</details>
 
-  * Fortalezas: fuerzas armadas profesionales.
-  * Debilidades: narcotráfico, violencia urbana y rural.
+<!-- ************************************************************* -->
 
 ---
 
-### 6. **Infraestructura y Tecnología**
+## Estadísticas
 
-* **Mejores ejemplos:**
-
-  * **China** → Megaproyectos de infraestructura.
-  * **EE. UU.** → Silicon Valley e innovación tecnológica.
-  * **Corea del Sur** → Internet ultrarrápido.
-* **Colombia:**
-
-  * Fortalezas: proyectos viales en expansión.
-  * Debilidades: brecha digital, transporte público deficiente.
-
----
-
-### 7. **Medio Ambiente y Sostenibilidad**
-
-* **Mejores ejemplos:**
-
-  * **Costa Rica** → Energía 100% renovable gran parte del año.
-  * **Suecia** → Políticas ambientales estrictas.
-* **Colombia:**
-
-  * Fortalezas: biodiversidad de las más altas del mundo.
-  * Debilidades: deforestación, minería ilegal.
-
----
-
-### 8. **Innovación y Futuro**
-
-* **Mejores ejemplos:**
-
-  * **Israel** → Startups y tecnología militar.
-  * **Alemania** → Industria 4.0.
-* **Colombia:**
-
-  * Fortalezas: ecosistema emprendedor emergente.
-  * Debilidades: poca inversión en ciencia y tecnología.
+- [Población](./2.Estadistica/poblacion.md)
 
 ---
 

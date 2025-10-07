@@ -1,33 +1,4 @@
-
 # Notas
-
-Quedó como una **guía personal de visión y desarrollo nacional**, con frases filosóficas, principios, y planes de acción.
-Aquí lo tienes listo para guardar como `vision_francisco.md` 👇
-
----
-
-```markdown
-# 🌎 Visión de Nación — Francisco Vélez
-
-> “Si algo es gratis, el producto eres tú.”
-
----
-
-## 💪 Superación y disciplina
-
-**Flexiones de pecho con estilo**  
-👉 [Ver video](https://www.instagram.com/reel/DFNmJuPBqoJ/?igsh=MTNyaGptNGh6Mng0aQ==)
-
-**Levantarse del suelo con estilo**  
-👉 [Ver video](https://www.instagram.com/reel/DFMh4SUTjKI/?igsh=MnpydzJ4dXAya216)
-
----
-
-## 📘 Biografía y propósito
-
-### Aprender sobre propaganda y marketing
-- Entender cómo influir en las masas para el bien común.  
-- Aprender a **dar incentivos** de forma ética.  
 
 ---
 
@@ -220,9 +191,3 @@ Un **ecosistema nacional del conocimiento**, inspirado en la Biblioteca de Aleja
 6. Sostenibilidad y expansión digital.
 
 > Si se hace bien, Colombia puede elevar su nivel intelectual promedio en menos de 10 años y convertirse en un **referente global del conocimiento.**
-```
-
----
-
-¿Quieres que te lo deje también en **formato PDF** (con portada y estilo tipo manifiesto o documento de visión nacional)?
-Podría hacerlo con diseño elegante y guardarlo como `vision_francisco.pdf`.
