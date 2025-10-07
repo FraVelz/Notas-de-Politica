@@ -92,7 +92,7 @@ Archivo general, compara entre Colombia y los mejores países tops en sus campos
 
 ## Proyectos
 
-- [Población](./2.Estadistica/poblacion.md)
+- [Población](./3.Proyectos/general.md)
 
 ---
 <!-- ************************************************************* -->
