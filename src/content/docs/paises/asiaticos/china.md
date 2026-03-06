@@ -1,8 +1,8 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
+title: China
+description: Notas sobre China y proyectos de interés
 ---
 
-<Layout title="China">
 # China
 
 ...
@@ -18,5 +18,3 @@ import Layout from '../../../layouts/Layout.astro';
 [Regresar a la nota principal](/)
 
 > **Autor:** Fravelz
-
-</div>

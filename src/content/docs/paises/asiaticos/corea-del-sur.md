@@ -1,11 +1,9 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
+title: Corea del Sur
+description: Análisis de aspectos positivos y negativos de Corea del Sur
 ---
 
-<Layout title="Corea del Sur">
-<div class="prose max-w-none bg-white rounded-lg shadow-sm p-8">
-
-# Corea del norte
+# Corea del Sur
 
 [Regresar a la nota principal](/)
 
@@ -58,5 +56,3 @@ Gran problema social, que afecta a las personas.
 [Regresar a la nota principal](/)
 
 > **Autor:** Fravelz
-
-</div>

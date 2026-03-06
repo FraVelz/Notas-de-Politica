@@ -1,9 +1,7 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+title: Población
+description: Estimaciones de población año 2025
 ---
-
-<Layout title="Población">
-<div class="prose max-w-none bg-white rounded-lg shadow-sm p-8">
 
 # Población (estimaciones año 2025)
 
@@ -20,5 +18,3 @@ import Layout from '../../layouts/Layout.astro';
 [Regresar a la nota principal](/)
 
 > **autor:** Fravelz
-
-</div>

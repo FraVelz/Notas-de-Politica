@@ -1,12 +1,19 @@
 # Notas de Política
 
-Repositorio de notas personales sobre política construido con [Astro](https://astro.build), [TailwindCSS](https://tailwindcss.com) y [MDX](https://mdxjs.com).
+Repositorio de notas personales sobre política construido con [Astro](https://astro.build) y [Starlight](https://starlight.astro.build).
 
-## 🚀 Inicio rápido
+## Características
+
+- **Tema claro/oscuro**: Selector integrado en la barra de navegación
+- **Búsqueda**: Índice de búsqueda con Pagefind
+- **Navegación**: Barra lateral organizada por secciones
+- **Responsive**: Diseño adaptable a móviles y escritorio
+
+## Inicio rápido
 
 ### Requisitos previos
 
-- Node.js 18+ 
+- Node.js 18+
 - pnpm (recomendado) o npm
 
 ### Instalación
@@ -25,36 +32,47 @@ pnpm build
 pnpm preview
 ```
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 /
-├── public/          # Archivos estáticos
+├── public/              # Archivos estáticos (favicon, etc.)
 ├── src/
-│   ├── layouts/    # Componentes de layout
-│   └── pages/      # Páginas y rutas (MDX y Astro)
-│       ├── paises/ # Páginas de países
-│       ├── estadistica/ # Páginas de estadísticas
-│       └── proyectos/ # Páginas de proyectos
+│   ├── content/
+│   │   └── docs/        # Contenido en Markdown
+│   │       ├── index.md # Página principal
+│   │       ├── general.md
+│   │       ├── paises/  # Países por región
+│   │       ├── estadistica/
+│   │       └── proyectos/
+│   ├── styles/          # CSS personalizado (temas)
+│   └── content.config.ts
 └── package.json
 ```
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Astro** - Framework web moderno
-- **TailwindCSS** - Framework CSS utility-first
-- **MDX** - Markdown con componentes JSX
+- **Starlight** - Tema de documentación con soporte nativo para temas claro/oscuro
 - **pnpm** - Gestor de paquetes rápido y eficiente
 
-## 📝 Contenido
+## Contenido
 
 Este repositorio contiene notas personales sobre política, organizadas por:
 
-- **Países**: Información sobre diferentes países y sus sistemas políticos
+- **General**: Estudio comparativo de países
+- **Países**: Información por región (Suramérica, Asia, etc.)
 - **Estadísticas**: Datos y estadísticas relevantes
 - **Proyectos**: Ideas y proyectos relacionados con política
 
-## 👤 Autor
+## Personalización
+
+Los colores del tema se personalizan en `src/styles/custom.css`. Starlight incluye por defecto:
+- Modo claro
+- Modo oscuro
+- Modo automático (según preferencia del sistema)
+
+## Autor
 
 **Fravelz**
 

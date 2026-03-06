@@ -1,9 +1,7 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
+title: Organización Política de Colombia
+description: Ramas del poder público y organismos del estado
 ---
-
-<Layout title="Organización Política de Colombia">
-<div class="prose max-w-none bg-white rounded-lg shadow-sm p-8">
 
 # Organización Política de Colombia
 
@@ -66,5 +64,3 @@ Otros:
 [Regresar a la nota principal](/)
 
 > **autor:** Fravelz
-
-</div>
